@@ -10,7 +10,7 @@ a { color:white } /* Globally */
 a:visited { text-decoration: none; color:black; }
 a:hover { text-decoration: none; color:blue; }
 a:focus { text-decoration: none; color:brown; }
-a:hover, a:active { text-decoration: none; color:grey }
+a:hover, a:active { text-decoration: none; color:black }
 
 body {
   font-family: 'Montserrat', sans-serif;
